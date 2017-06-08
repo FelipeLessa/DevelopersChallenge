@@ -1,1 +1,7 @@
-teste
+O projeto usar o .Net 4.5.2
+
+Precisa de uma instância do localdb ou sqlexpress.
+
+Ao executar, ele irá criar a base de dados e as tabelas.
+
+Será preciso configurar um login na tabela "users" para poder executar edições no "tournament".
